@@ -1,1 +1,2 @@
 Feature rebase - Commit 1
+Feature rebase - Commit 2
